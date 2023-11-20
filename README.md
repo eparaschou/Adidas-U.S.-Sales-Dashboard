@@ -1,1 +1,1 @@
-# Adidas-U.S.-Sales-Dashboard
+# Adidas U.S. Sales Tableau Dashboard
