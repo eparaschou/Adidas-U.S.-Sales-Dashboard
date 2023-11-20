@@ -1,5 +1,6 @@
 # Adidas U.S. Sales Tableau Dashboard
-- **Description:**
+
+**Description:**
 - [Link to Dashboard](https://public.tableau.com/views/AdidasU_S_SalesDashboard/AdidasU_S_SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 - Analyze Adidas' sales across the U.S. for 2020 and 2021
 - Tools: Tableau & Excel
